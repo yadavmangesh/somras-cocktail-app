@@ -1,16 +1,24 @@
-# somras
+# Somras - Cocktail app
 
-A new Flutter application.
+The app will help you learn many concepts of flutter development and learn to make some cocktails as well.
 
-## Getting Started
+### Features of the app
 
-This project is a starting point for a Flutter application.
+The app lets you browse the list of cocktails based on Popularity, Recent, and 10 random drink every time you launch the app. It also lets you browse based on the Alcohol.
+The detail screen will show you the procedure to make the cocktail with the image of the ingredients attached.
 
-A few resources to get you started if this is your first Flutter project:
+### What will you learn :)
+   * *FutureBuilder with List* 
+   * *JSON parsing*
+   * *Grid List*
+*    *Horizontal List*
+* *API call using async-await*
+* *Navigate and send data across screens*
+* *Different flutter widgets*
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### What's next from here 
+* *Ability to search*
+* *Save your favorite drink*
+* *Add offline capabilities*
+* *provide some basic user settings*
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
