@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbb70fc8-9eda-4f95-9cce-4c812124f407" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1nmZIwAOyEbDqUVHtxzDW7LUNle" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/home" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/home" />
+      <recent name="$PROJECT_DIR$/lib/detailscreen" />
+      <recent name="$PROJECT_DIR$/lib/utils" />
+      <recent name="$PROJECT_DIR$/lib/model" />
+      <recent name="$PROJECT_DIR$/lib/database" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/Main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb70fc8-9eda-4f95-9cce-4c812124f407" name="Default Changelist" comment="" />
+      <created>1611997154616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611997154616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1612074863337">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="496" y="77" key="#com.intellij.ide.util.MemberChooser/0.24.1366.701@0.24.1366.701" timestamp="1612074863337" />
+    <state x="244" y="24" key="CommitChangelistDialog2" timestamp="1616915771682">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="244" y="24" key="CommitChangelistDialog2/0.24.1366.701@0.24.1366.701" timestamp="1616915771682" />
+    <state x="99" y="89" width="1168" height="537" key="DiffContextDialog" timestamp="1616849748786">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="99" y="89" width="1168" height="537" key="DiffContextDialog/0.24.1366.701@0.24.1366.701" timestamp="1616849748786" />
+    <state x="471" y="133" key="FileChooserDialogImpl" timestamp="1612004895384">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="471" y="133" key="FileChooserDialogImpl/0.24.1366.701@0.24.1366.701" timestamp="1612004895384" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom" timestamp="1612006789673">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.24.1366.701@0.24.1366.701" timestamp="1612006789673" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center" timestamp="1612006789672">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.center/0.24.1366.701@0.24.1366.701" timestamp="1612006789672" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left" timestamp="1612006789672">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.left/0.24.1366.701@0.24.1366.701" timestamp="1612006789672" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right" timestamp="1612006789673">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.right/0.24.1366.701@0.24.1366.701" timestamp="1612006789673" />
+    <state x="0" y="-4" width="1366" height="729" key="SettingsEditor" timestamp="1612004897934">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="0" y="-4" width="1366" height="729" key="SettingsEditor/0.24.1366.701@0.24.1366.701" timestamp="1612004897934" />
+    <state x="99" y="89" width="1168" height="537" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1612004620722">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="99" y="89" width="1168" height="537" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.24.1366.701@0.24.1366.701" timestamp="1612004620722" />
+    <state x="344" y="181" key="com.intellij.ide.util.TipDialog" timestamp="1616834465775">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="344" y="181" key="com.intellij.ide.util.TipDialog/0.24.1366.701@0.24.1366.701" timestamp="1616834465775" />
+    <state x="456" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612004803730">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="456" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.701@0.24.1366.701" timestamp="1612004803730" />
+    <state x="255" y="64" width="855" height="586" key="find.popup" timestamp="1616911785961">
+      <screen x="0" y="24" width="1366" height="701" />
+    </state>
+    <state x="255" y="64" width="855" height="586" key="find.popup/0.24.1366.701@0.24.1366.701" timestamp="1616911785961" />
+  </component>
+</project>

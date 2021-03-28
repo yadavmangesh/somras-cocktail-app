@@ -1,0 +1,4 @@
+#Sat Jan 30 16:40:43 IST 2021
+base.0=/home/mangesh/AndroidStudioProjects/somras/public/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
