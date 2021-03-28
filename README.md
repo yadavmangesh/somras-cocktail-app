@@ -5,6 +5,18 @@
 The app will help you learn many concepts of flutter development and learn to make some cocktails as well.
 
 
+### How to Run the App
+
+The app uses The Cocktail DB as the data source, it uses some of the v2 version of the APIs provided by The Cocktail DB. You can also use the v1 version for free, but some of the APIs are only available in the v2 version. Signup as a Patreon supporter to get your v2 API key just for 2$ (146 ₹). You can cancel any time if you don’t want to support monthly, you still can continue to use the same API key.
+The app will help you learn many concepts of flutter development and make some cocktails as well.
+
+Add your Version and API_KEY in `lib/constant.dart`
+
+ `static final  API_KEY="XXXXXXXX";`
+ 
+ `static final API_VERSION="v2";`
+
+
 ### Features of the app
 
 The app lets you browse the list of cocktails based on Popularity, Recent, and 10 random drink every time you launch the app. It also lets you browse based on the Alcohol.
