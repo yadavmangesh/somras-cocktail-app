@@ -4,6 +4,9 @@
 ![somras](https://github.com/yadavmangesh/somras-cocktail-app/blob/master/Frame%203.png)
 The app will help you learn many concepts of flutter development and learn to make some cocktails as well.
 
+Medium Article: [Cocktail Recipe App using Flutter](https://mangeshyadav786.medium.com/cocktail-recipe-app-using-flutter-813515e2f112)
+
+
 
 ### How to Run the App
 
